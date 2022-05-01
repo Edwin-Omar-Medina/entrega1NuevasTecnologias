@@ -1,0 +1,22 @@
+body {
+  width: 715px;
+  margin: 0 auto;
+  background-color: rgb(73, 167, 167);
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  width: 715px;
+}
+.iconos {
+  width: 40px;
+  height: 20px;
+}
+.imagen {
+  width: 400px;
+  height: 300px;
+  align-items: center;
+}
